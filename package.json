@@ -1,20 +1,29 @@
 {
-    "name": "squash-object",
-    "version": "1.0.0",
-    "description": "Flattens and expands objects",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "flatten",
-        "expand",
-        "object",
-        "flat"
-    ],
-    "author": "Cherednichenko Nikita",
-    "license": "MIT",
-    "dependencies": {
-        "lodash.set": "^4.3.2"
-    }
+  "name": "squash-object",
+  "version": "1.0.0",
+  "description": "Flattens and expands objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flatten",
+    "expand",
+    "object",
+    "flat"
+  ],
+  "author": "Cherednichenko Nikita",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.set": "^4.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cethrivias/node-squash-object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cethrivias/node-squash-object/issues"
+  },
+  "homepage": "https://github.com/Cethrivias/node-squash-object#readme"
 }
